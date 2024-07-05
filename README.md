@@ -1,20 +1,9 @@
-<<<<<<< HEAD
-# j_a_r_v_i_s
+## J.A.R.V.I.S
 
-A new Flutter project.
+J.A.R.V.I.S is built using DashChat and OpenAI's API in Flutter using the dart programming Language 
 
-## Getting Started
+# Chat Screen 
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/dakshita-thakkar/flutter-J.A.R.V.I.S/assets/133591416/ebc00ab6-12f2-4c9a-8538-32c0efe90e5d)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# flutter-J.A.R.V.I.S
->>>>>>> 169ba5de11c098cb513c5b79fe2f6bf107b890bd
+![image](https://github.com/dakshita-thakkar/flutter-J.A.R.V.I.S/assets/133591416/9adb82bf-5d58-49b1-b52e-72b01cd425d4)
